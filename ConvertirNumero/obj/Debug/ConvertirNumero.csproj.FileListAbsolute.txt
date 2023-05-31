@@ -1,0 +1,8 @@
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\bin\Debug\ConvertirNumero.exe.config
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\bin\Debug\ConvertirNumero.exe
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\bin\Debug\ConvertirNumero.pdb
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.exe
+C:\Users\jose_\source\repos\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.pdb

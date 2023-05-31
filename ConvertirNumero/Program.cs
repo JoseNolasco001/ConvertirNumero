@@ -48,20 +48,20 @@ namespace ConvertirNumero
 
         public static int ContarCeros(string cadena)
         {
-            int ini = 0, fin = 0, cont = 0, contAux = 0; ;
+           int contCeros = 0, contAux = 0; ;
 
             for(int i = 0; i<cadena.Count(); i++){
                 if (cadena[i] == '0'){
                     contAux += 1;
                 }
                 if(cadena[i] == '1' || i==cadena.Count()-1){
-                    if (cont < contAux){
-                        cont = contAux;
+                    if (contCeros < contAux){
+                        contCeros = contAux;
                     }
                     contAux = 0;
                 }
             }
-            return cont;
+            return contCeros;
         }
     }
 }
